@@ -11,15 +11,15 @@ function Nav() {
       </div>
       <div className="profile-container">
         <a href="#">
-          <FiHeart className="nav-icons" />
+          <FiHeart className="nav-icons one" />
         </a>
 
         <a href="#">
-          <AiOutlineShoppingCart className="nav-icons" />
+          <AiOutlineShoppingCart className="nav-icons two" />
         </a>
 
         <a href="#">
-          <AiOutlineUserAdd className="nav-icons" />
+          <AiOutlineUserAdd className="nav-icons three" />
         </a>
       </div>
     </nav>

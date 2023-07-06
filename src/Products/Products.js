@@ -25,6 +25,123 @@ function Products() {
             <BsFillBagHeartFill />
           </div>
         </div>
+
+        <div className="card">
+          <img src="https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg" alt="" />
+          <div className="card-details">
+            <h3>Shoe</h3>
+            <div className="rating">
+              <div className="">
+                <AiFillStar /> <AiFillStar /> <AiFillStar /> <AiFillStar />
+              </div>
+              <span>(123 reviews)</span>
+            </div>
+          </div>
+          <div className="card-price">
+            <div>
+              <del className='del'>$399</del>100
+            </div>
+            <BsFillBagHeartFill />
+          </div>
+        </div>
+
+        <div className="card">
+          <img src="https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg" alt="" />
+          <div className="card-details">
+            <h3>Shoe</h3>
+            <div className="rating">
+              <div className="">
+                <AiFillStar /> <AiFillStar /> <AiFillStar /> <AiFillStar />
+              </div>
+              <span>(123 reviews)</span>
+            </div>
+          </div>
+          <div className="card-price">
+            <div>
+              <del className='del'>$399</del>100
+            </div>
+            <BsFillBagHeartFill />
+          </div>
+        </div>
+
+        <div className="card">
+          <img src="https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg" alt="" />
+          <div className="card-details">
+            <h3>Shoe</h3>
+            <div className="rating">
+              <div className="">
+                <AiFillStar /> <AiFillStar /> <AiFillStar /> <AiFillStar />
+              </div>
+              <span>(123 reviews)</span>
+            </div>
+          </div>
+          <div className="card-price">
+            <div>
+              <del className='del'>$399</del>100
+            </div>
+            <BsFillBagHeartFill />
+          </div>
+        </div>
+
+
+        <div className="card">
+          <img src="https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg" alt="" />
+          <div className="card-details">
+            <h3>Shoe</h3>
+            <div className="rating">
+              <div className="">
+                <AiFillStar /> <AiFillStar /> <AiFillStar /> <AiFillStar />
+              </div>
+              <span>(123 reviews)</span>
+            </div>
+          </div>
+          <div className="card-price">
+            <div>
+              <del className='del'>$399</del>100
+            </div>
+            <BsFillBagHeartFill />
+          </div>
+        </div>
+
+
+        <div className="card">
+          <img src="https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg" alt="" />
+          <div className="card-details">
+            <h3>Shoe</h3>
+            <div className="rating">
+              <div className="">
+                <AiFillStar /> <AiFillStar /> <AiFillStar /> <AiFillStar />
+              </div>
+              <span>(123 reviews)</span>
+            </div>
+          </div>
+          <div className="card-price">
+            <div>
+              <del className='del'>$399</del>100
+            </div>
+            <BsFillBagHeartFill />
+          </div>
+        </div>
+
+
+        <div className="card">
+          <img src="https://m.media-amazon.com/images/I/6125yAfsJKL._AC_UX575_.jpg" alt="" />
+          <div className="card-details">
+            <h3>Shoe</h3>
+            <div className="rating">
+              <div className="">
+                <AiFillStar /> <AiFillStar /> <AiFillStar /> <AiFillStar />
+              </div>
+              <span>(123 reviews)</span>
+            </div>
+          </div>
+          <div className="card-price">
+            <div>
+              <del className='del'>$399</del>100
+            </div>
+            <BsFillBagHeartFill />
+          </div>
+        </div>
       </div>
     </>
   )

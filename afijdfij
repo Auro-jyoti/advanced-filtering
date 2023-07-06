@@ -1,0 +1,23 @@
+[33mcommit 6648a35395a3e08a92383f4768239f3970a1279e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Aurojyoti <developeratbackend@gmail.com>
+Date:   Thu Jul 6 10:02:52 2023 +0530
+
+    Nav bar and a sample product card updated
+
+[33mcommit 5ab7b865afa74bf9423de4ebbf49960b164e9255[m
+Author: Aurojyoti <developeratbackend@gmail.com>
+Date:   Wed Jul 5 17:20:00 2023 +0530
+
+    Sidebar Components Updated
+
+[33mcommit 0d9ada37c2dfca5ab5ce13bbde8f39a755096395[m
+Author: Aurojyoti <developeratbackend@gmail.com>
+Date:   Wed Jul 5 17:02:37 2023 +0530
+
+    Boiler Plate for the Project
+
+[33mcommit ff9f8b659c76ee434d95e3eb267ce02c92fa0ee5[m
+Author: Aurojyoti <developeratbackend@gmail.com>
+Date:   Wed Jul 5 16:32:32 2023 +0530
+
+    Initialize project using Create React App

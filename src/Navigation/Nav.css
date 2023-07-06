@@ -1,13 +1,18 @@
 nav {
     display: flex;
+    width: 75%;
     border-bottom: 2px solid #f3f3f3;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     padding: 20px;
     z-index: 999;
     margin-left: 2rem;
+    margin: 0 auto;
 }
-
+.nav-container {
+    /* width: 75%; */
+    margin: 0 auto;
+}
 input {
     padding: 12px 20px;
     border: none;
@@ -25,4 +30,19 @@ input {
     height: 1.5rem;
     margin-left : 2rem;
     color: rgb(9, 8, 8)
+}
+
+@media (max-width: 500px) {
+    .nav-container {
+        align-items: center;
+    }
+
+    .one {
+        display: none;
+    }
+
+    .three {
+        display: none;
+    }
+
 }
